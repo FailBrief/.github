@@ -84,7 +84,7 @@ FailBrief takes security seriously:
 - **Encrypted Data** - All data encrypted in transit and at rest
 - **Minimal Permissions** - Only requests what's necessary
 
-[**Read our Privacy Policy →**](https://failbrief.com/privacy.html)
+[**Read our Privacy Policy →**](https://failbrief.com/privacy-policy/)
 
 ---
 
@@ -111,7 +111,7 @@ FailBrief is built with:
 
 ## 📜 License
 
-FailBrief is proprietary software. See our [Terms of Service](https://failbrief.com/terms.html) for usage terms.
+FailBrief is proprietary software. See our [Terms of Service](https://failbrief.com/terms/) for usage terms.
 
 ---
 
@@ -141,8 +141,8 @@ FailBrief gives you back that time.
 
 - **Website**: [failbrief.com](https://failbrief.com)
 - **GitHub App**: [github.com/apps/failbrief](https://github.com/apps/failbrief)
-- **Privacy Policy**: [failbrief.com/privacy](https://failbrief.com/privacy.html)
-- **Terms of Service**: [failbrief.com/terms](https://failbrief.com/terms.html)
+- **Privacy Policy**: [failbrief.com/privacy](https://failbrief.com/privacy-policy/)
+- **Terms of Service**: [failbrief.com/terms](https://failbrief.com/terms/)
 
 ---
 
