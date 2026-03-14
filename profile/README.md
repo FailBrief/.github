@@ -141,7 +141,7 @@ FailBrief gives you back that time.
 
 - **Website**: [failbrief.com](https://failbrief.com)
 - **GitHub App**: [github.com/apps/failbrief](https://github.com/apps/failbrief)
-- **Privacy Policy**: [failbrief.com/privacy](https://failbrief.com/privacy-policy/)
+- **Privacy Policy**: [failbrief.com/privacy-policy](https://failbrief.com/privacy-policy/)
 - **Terms of Service**: [failbrief.com/terms](https://failbrief.com/terms/)
 
 ---
