@@ -105,7 +105,7 @@ FailBrief is built with:
 - **Database**: PostgreSQL
 - **AI**: OpenAI / Anthropic Claude
 - **Infrastructure**: AWS
-- **Frontend**: React, TypeScript (dashboard - coming soon)
+- **Frontend**: React, TypeScript
 
 ---
 
