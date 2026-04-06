@@ -92,7 +92,7 @@ FailBrief takes security seriously:
 
 Need help or have questions?
 
-**Email**: [ali.yaakoub@failbrief.com](mailto:ali.yaakoub@failbrief.com)
+**Email**: [support@failbrief.com](mailto:support@failbrief.com)
 
 ---
 
@@ -150,6 +150,6 @@ FailBrief gives you back that time.
 
 **Made with ❤️ for developers who deserve better CI/CD debugging**
 
-[Install Now](https://github.com/apps/failbrief) • [Learn More](https://failbrief.com) • [Get Support](mailto:ali.yaakoub@failbrief.com)
+[Install Now](https://github.com/apps/failbrief) • [Learn More](https://failbrief.com) • [Get Support](mailto:support@failbrief.com)
 
 </div>
